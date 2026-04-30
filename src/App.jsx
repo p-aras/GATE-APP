@@ -13,7 +13,7 @@ import RgpGateEntry from './RgpGateEntry.jsx';
 import RgpMaterialIn from './RgpMaterialIn.jsx';
 import ZipEntrance from './ZipEntrance.jsx';
 import ZipGateEntry from './ZipGateEntry.jsx';
-import ZipReceivedBy from './ZipReceivedBy.JSX';
+import ZipReceivedBy from './ZipReceivedBy.jsx';
 import DoriEntrance from './DoriEntrance.jsx';
 import DoriGateEntry from './DoriGateEntry.jsx';
 import DoriMaterialReceived from './DoriMaterialReceived.jsx';
